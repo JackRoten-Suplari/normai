@@ -1,0 +1,13 @@
+# Ignore user specific files.
+__pycache__
+.idea/workspace.xml
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/cs.iml
+*.xml
+*.iml
+.DS_Store
+*.egg-info/
+*.ipynb_checkpoints/
