@@ -1,5 +1,5 @@
-# normai
-Test grounds for AI based normalizations
+# normi
+Test grounds for AI and ML based normalizations
 
 Anthropic_batch.py needs work to be integrated into this repo, aids in creating vendor batch to pass to anthropic
 
